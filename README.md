@@ -1,6 +1,7 @@
 # Era
-**Era**
-A simple and straightforward theme with support for Python developers and Git users. A modification of the [idan](https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md#idan) theme. 
+### About
+
+ A simple and straightforward theme with support for Python developers and Git users. A modification of the [idan](https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md#idan) theme. 
 
 
 **Left Prompt**
@@ -15,5 +16,18 @@ A simple and straightforward theme with support for Python developers and Git us
  - Time
  - Error codes, if there are any
  
+### Installation
 
+**Clone the Git Repository**
+
+Clone and change directory: 
+```bash
+git clone https://github.com/sohamb117/era.git
+cd era
+```
+**Install**
+Just run the installer:
+```bash
+./install.sh
+```
 
